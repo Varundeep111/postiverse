@@ -1,6 +1,7 @@
-# Reddit Clone
+# Postiverse
 
-A responsive, full-stack Reddit clone optimized for Android devices.
+Postiverse is a fully responsive, full-stack social platform optimized for Android devices. It offers users a rich experience in a universe of posts, communities, and interactions.
+
 
 ## Features
 
@@ -19,7 +20,7 @@ A responsive, full-stack Reddit clone optimized for Android devices.
 
 ## Installation
 
-After cloning this repository, migrate to the `flutter-reddit-clone` folder. Then, follow these steps:
+After cloning this repository, migrate to the `flutter-postiverse` folder. Then, follow these steps:
 
 1. Create a Firebase Project
 2. Enable Authentication (Google Sign In, Guest Sign In)
@@ -27,7 +28,7 @@ After cloning this repository, migrate to the `flutter-reddit-clone` folder. The
 4. Create Android.
 5. Use FlutterFire CLI to add the Firebase Project to this app
 6. Run the following commands:
-   - `flutter pub get`
+   - `flutter pub get
    - `flutter run`
 
 
@@ -44,7 +45,7 @@ If you have any feedback, please reach out to me at [varun111guliani@gmail.com](
 
 | **Opening Screen** | **Feed Screen 1** |
 |:---:|:---:|
-| ![opening_screen](https://github.com/user-attachments/assets/f4d46f07-a58c-4c42-8710-30fb93d1e832) | ![feed_screen1](https://github.com/user-attachments/assets/9618c465-8cd8-4afb-9884-50eb8b136b9f) |
+| ![postiversee](https://github.com/user-attachments/assets/824f4911-b626-4c77-ab8c-0c7799c429f3) | ![feed_screen1](https://github.com/user-attachments/assets/9618c465-8cd8-4afb-9884-50eb8b136b9f) |
 
 | **Feed Screen** | **Create Community** |
 |:---:|:---:|
