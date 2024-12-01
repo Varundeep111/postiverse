@@ -41,24 +41,5 @@ After cloning this repository, migrate to the `flutter-postiverse` folder. Then,
 
 If you have any feedback, please reach out to me at [varun111guliani@gmail.com](mailto:varun111guliani@gmail.com)
 
-## Screenshots
-
-| **Opening Screen** | **Feed Screen 1** |
-|:---:|:---:|
-| ![postiversee](https://github.com/user-attachments/assets/824f4911-b626-4c77-ab8c-0c7799c429f3) | ![feed_screen1](https://github.com/user-attachments/assets/9618c465-8cd8-4afb-9884-50eb8b136b9f) |
-
-| **Feed Screen** | **Create Community** |
-|:---:|:---:|
-| ![feed_screen](https://github.com/user-attachments/assets/c5c069ab-ef67-44f5-b90b-a0322adb85ea) | ![create_community](https://github.com/user-attachments/assets/5c40e82c-4a5a-49fe-ac10-79ef59245237) |
-
-| **Communities** | **Search Community** |
-|:---:|:---:|
-| ![communities](https://github.com/user-attachments/assets/cd5005f1-cef9-4c03-9c74-8df79e70c4df) | ![search_community](https://github.com/user-attachments/assets/1bac986b-d9ea-4b64-ad9d-bc7b9147b397) |
-
-| **Day Mode** | **Day Mode User Profile** |
-|:---:|:---:|
-| ![day_mode](https://github.com/user-attachments/assets/2a273f34-7833-464f-85e6-bf48243c7420) | ![day_mode_user_profile](https://github.com/user-attachments/assets/d6e3dcef-4ab4-413c-8db3-269e864f2583) |
-
-| **Moderator Tools** | **Guest Screen** |
-|:---:|:---:|
-| ![mod_tools](https://github.com/user-attachments/assets/4cf75900-527d-4d26-9e8a-dcd55c208f96) | ![guest_screen](https://github.com/user-attachments/assets/6d82a3a2-680d-4e1c-8e5e-58fc3d4b1926) |
+## UI Previews
+![postiverse](https://github.com/user-attachments/assets/11842a07-b5eb-4e75-9693-68aa9e686559)
